@@ -13,6 +13,10 @@
 * [ডাটা সায়েন্স এর জারিজুরি ।আর্টিফিশিয়াল ইন্টেলিজেন্স](https://medium.com/@reyadrahman/ডাটা-সায়েন্স-এর-জারিজুরি-আর্টিফিশিয়াল-ইন্টেলিজেন্স-d1453397ea84)
 * [ডেটা সাইন্স](http://jakir.me/data-science/)
 * [এক্সপ্লোরেটোরী ডাটা এনালাইসিস নিয়ে সংক্ষিপ্ত বিবরণ](https://medium.com/@harunshimanto/এক্সপ্লোরেটোরী-ডাটা-এনালাইসিস-নিয়ে-সংক্ষিপ্ত-বিবরণ-85e115f95ec9)
+* [Power of Statistics (Regression Analysis)](http://porisongkhanporichity.blogspot.com/2017/02/power-of-statistics-regression-analysis.html)
+* [পরিসংখ্যান পরিচিতি - Normal Distribution](http://porisongkhanporichity.blogspot.com/2017/02/normal-distribution.html)
+* [R-squared এবং Adjusted R-squared কি ? এবং এদের পার্থক্য কি?](http://porisongkhanporichity.blogspot.com/2017/04/r-squared-adjusted-r-squared.html)
+* [Degrees of Freedom এর সহজ পাঠ](http://porisongkhanporichity.blogspot.com/2017/02/degrees-of-freedom_19.html)
 
 ## মেশিন লার্নিং
 *  ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [মেশিন লার্নিং](https://ml.howtocode.com.bd)
@@ -28,6 +32,7 @@
 * [আর্টিফিশিয়াল ইন্টেলিজেন্স নিয়ে কথপোকথন](https://www.aditta.org/blog/conversation-artificial-intelligence/)
 * [সম্ভাবনাময় মেশিন লার্নিং শুরুর কিছু পথ-নির্দেশিকা](https://medium.com/@harunshimanto/সম্ভাবনাময়-মেশিন-লার্নিং-শুরুর-কিছু-পথ-নির্দেশিকা-1532f57cee49)
 * [আর্টিফিশিয়াল ইন্টেলিজেন্স নিয়ে কথপোকথন](https://medium.com/@harunshimanto/আর্টিফিশিয়াল-ইন্টেলিজেন্স-নিয়ে-কথপোকথন-57f83840abff)
+* [ডিসিশন ট্রি [DECISION TREE, MACHINE LEARNING ALGORITHM]](https://kandarisite.wordpress.com/2018/09/09/decision-tree-machine-learning-algorithm/)
 
 ## ডিপ লার্নিং
 *  ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [ডিপ লার্নিং](https://dl.howtocode.com.bd)
@@ -62,3 +67,6 @@
 * [মেশিন লার্নিং সম্পর্কে ধারণা](https://jakir.me/মেশিন-লার্নিং/)
 * [লিনিয়ার এবং লজিস্টিক রিগ্রেশন মধ্যে পার্থক্য](https://bn.esdifferent.com/difference-between-linear-and-logistic-regression)
 *  ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [R পরিচিতি (Introduction to R)](http://shikkhok.com/কোর্স-তালিকা/intro-to-r/)
+* বিগ ডাটা - [১](https://raqueeb.wordpress.com/2013/05/23/বিগ-ডাটা-এক/), [২](https://raqueeb.wordpress.com/2013/05/29/বিগ-ডাটা-দুই/), [৩](https://raqueeb.wordpress.com/2013/06/12/বিগ-ডাটা-তিন/), [৪](https://raqueeb.wordpress.com/2013/07/05/বিগডাটাচার/), [৫](https://raqueeb.wordpress.com/2013/07/07/বিগ-ডাটা-পাঁচ/), [৬](https://raqueeb.wordpress.com/2013/07/12/বিগ-ডাটা-ছয়/), [৭](https://raqueeb.wordpress.com/2013/07/26/বিগ-ডাটা-সাত/), [৮](https://raqueeb.wordpress.com/2013/07/27/বিগ-ডাটা-আট/), [৯](https://raqueeb.wordpress.com/2013/08/05/বিগ-ডাটা/), [১০](https://raqueeb.wordpress.com/2013/08/06/বিগ-ডাটা-দশ/), [১১](https://raqueeb.wordpress.com/2017/03/19/big_data11/), [১২](https://raqueeb.wordpress.com/2017/03/25/bigdata12/), [১৩](https://raqueeb.wordpress.com/2017/03/26/bigdata13/), [১৪](https://raqueeb.wordpress.com/2017/03/26/bigdata14/)
+* তৈরি তো? আর্টিফিসিয়াল ইন্টেলিজেন্স - [১](https://raqueeb.wordpress.com/2016/12/01/artificial_intelligence1/), [২](https://raqueeb.wordpress.com/2017/01/06/artificial_intelligence2/), [৩](https://raqueeb.wordpress.com/2017/04/02/artificial-intelligence-3/), [৪](https://raqueeb.wordpress.com/2017/04/05/artificial-intelligence4/), [৫](https://raqueeb.wordpress.com/2017/04/07/artificial-intelligence5/)
+* [কৃত্রিম বুদ্ধিমত্তার পাঠ্যক্রম](https://roar.media/bangla/main/science/study-curriculum-of-artificial-intelligence/)

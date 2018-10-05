@@ -23,6 +23,7 @@
 * [ডাটা সায়েন্স নিয়ে নতুনদের কিছু কমন প্রশ্ন ও উত্তর](https://abdalimran.github.io/2016-11-21/ডাটা-সায়েন-স-নিয়ে-নতুনদের-কিছু-কমন-প-রশ-ন-ও-উত-তর)
 * বিগ ডাটা' - নুতন সম্ভাবনার দুয়ার - [১](https://www.priyo.com/articles/বিগ-ডাটা-নুতন-সম্ভাবনার-দুয়ার-১), [২](https://www.priyo.com/articles/বিগ-ডাটা-নুতন-সম্ভাবনার-দুয়ার-২), [৩](https://www.priyo.com/articles/বিগ-ডাটা-নুতন-সম্ভাবনার-দুয়ার-৩)
 * পরিসংখ্যান ও সম্ভাব্যতা - [১](https://medium.com/প্রোগ্রামিং-পাতা/পরিসংখ্যান-ও-সম্ভাব্যতা-পর্ব-১-ca96d0b6ed10), [২](https://medium.com/প্রোগ্রামিং-পাতা/পরিসংখ্যান-ও-সম্ভাব্যতা-পর্ব-২-6c0287b06514), [৩](https://medium.com/প্রোগ্রামিং-পাতা/পরিসংখ্যান-ও-সম্ভাব্যতা-পর্ব-৩-cd3efc3ebbf1), [৪](https://medium.com/প্রোগ্রামিং-পাতা/পরিসংখ্যান-ও-সম্ভাব্যতা-পর্ব-৪-4bdcffac6097)
+* [জাম্প (পরিসংখ্যানের সফটওয়্যার)](https://bn.wikipedia.org/wiki/জাম্প_(পরিসংখ্যানের_সফটওয়্যার))
 
 ## মেশিন লার্নিং
 *  ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [মেশিন লার্নিং](https://ml.howtocode.com.bd)
@@ -40,6 +41,8 @@
 * [আর্টিফিশিয়াল ইন্টেলিজেন্স নিয়ে কথপোকথন](https://medium.com/@harunshimanto/আর্টিফিশিয়াল-ইন্টেলিজেন্স-নিয়ে-কথপোকথন-57f83840abff)
 * [ডিসিশন ট্রি [DECISION TREE, MACHINE LEARNING ALGORITHM]](https://kandarisite.wordpress.com/2018/09/09/decision-tree-machine-learning-algorithm/)
 * [সখী Confusion Matrix কারে কয়, সে কি কেবলই যাতনাময় !!!!](http://sudiptakar.info/সখী-confusion-matrix-কারে-কয়-সে-কি-কেবলই/?i=1)
+* [মেশিন-লার্নিং কী, আর কেন এটা গুরুত্ত্বপূর্ণ?](https://bigganjatra.org/machine-learning-and-its-importance/)
+* [আর্টিফিশিয়াল ইন্টেলিজেন্স vs মেশিন লার্নিং vs ডিপ লার্নিং](https://youthcarnival.org/bn/আর্টিফিশিয়াল-ইন্টেলিজে-8/)
 
 ## ডিপ লার্নিং
 *  ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [ডিপ লার্নিং](https://dl.howtocode.com.bd)
@@ -57,6 +60,8 @@
 * [Multi Layer Perceptron And Back Propagation Step By Step in Bangla](http://www.shawonruet.me/2018/06/multi-layer-perception-and-back.html)
 * [নিউরাল নেটওয়ার্কে ব্যাক প্রপাগেসন যেভাবে কাজ করে](https://blog.semanticslab.net/ml/2017/নিউরাল-নেটওয়ার্কে-ব্যাক/)
 * [ডিফারেন্সিয়েবল নিউরাল কম্পিউটার নেটওয়ার্ক](http://bangla.monzilurrahman.com/2016/11/blog-post.html)
+* [টেনসরফ্লো/TensorFlow এর বেসিক কিছু ধারণা](https://inversemaha.wordpress.com/2017/06/04/tensorflow-এবং-মেশিন-লার্নিং/)
+* [নিউরাল নেটওয়ার্ক](https://bn.wikipedia.org/wiki/নিউরাল_নেটওয়ার্ক)
 
 ## কম্পিউটার ভিশন-
 *  ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [কম্পিউটার ভিশন পরিচিতি](http://shikkhok.com/কোর্স-তালিকা/computer-vision/)

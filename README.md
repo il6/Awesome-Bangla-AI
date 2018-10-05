@@ -17,13 +17,19 @@
 * [পরিসংখ্যান পরিচিতি - Normal Distribution](http://porisongkhanporichity.blogspot.com/2017/02/normal-distribution.html)
 * [R-squared এবং Adjusted R-squared কি ? এবং এদের পার্থক্য কি?](http://porisongkhanporichity.blogspot.com/2017/04/r-squared-adjusted-r-squared.html)
 * [Degrees of Freedom এর সহজ পাঠ](http://porisongkhanporichity.blogspot.com/2017/02/degrees-of-freedom_19.html)
+* ডাটা এনালাইসিসের হলো শুরু - [১](https://youthcarnival.org/bn/ডাটা-এনালাইসিসের-হলো-শুর/), [২](https://youthcarnival.org/bn/ডাটা-এনালাইসিসের-হলো-শুর-2/)
+* [ডাটা সাইন্স vs বিগ ডেটা vs ডাটা এনালাইটিক্স](https://youthcarnival.org/bn/ডাটা-সাইন্স-vs-বিগ-ডেটা-vs-ডাটা/)
+* [ডাটা সায়েন্সের ক্ষেত্রে কি দিয়ে শুরু করবো? R নাকি Python?](https://abdalimran.github.io/2016-11-21/ডাটা-সায়েন-সের-ক-ষেত-রে-কি-দিয়ে-শুরু-করবো-r-নাকি-python)
+* [ডাটা সায়েন্স নিয়ে নতুনদের কিছু কমন প্রশ্ন ও উত্তর](https://abdalimran.github.io/2016-11-21/ডাটা-সায়েন-স-নিয়ে-নতুনদের-কিছু-কমন-প-রশ-ন-ও-উত-তর)
+* বিগ ডাটা' - নুতন সম্ভাবনার দুয়ার - [১](https://www.priyo.com/articles/বিগ-ডাটা-নুতন-সম্ভাবনার-দুয়ার-১), [২](https://www.priyo.com/articles/বিগ-ডাটা-নুতন-সম্ভাবনার-দুয়ার-২), [৩](https://www.priyo.com/articles/বিগ-ডাটা-নুতন-সম্ভাবনার-দুয়ার-৩)
+* পরিসংখ্যান ও সম্ভাব্যতা - [১](https://medium.com/প্রোগ্রামিং-পাতা/পরিসংখ্যান-ও-সম্ভাব্যতা-পর্ব-১-ca96d0b6ed10), [২](https://medium.com/প্রোগ্রামিং-পাতা/পরিসংখ্যান-ও-সম্ভাব্যতা-পর্ব-২-6c0287b06514), [৩](https://medium.com/প্রোগ্রামিং-পাতা/পরিসংখ্যান-ও-সম্ভাব্যতা-পর্ব-৩-cd3efc3ebbf1), [৪](https://medium.com/প্রোগ্রামিং-পাতা/পরিসংখ্যান-ও-সম্ভাব্যতা-পর্ব-৪-4bdcffac6097)
 
 ## মেশিন লার্নিং
 *  ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [মেশিন লার্নিং](https://ml.howtocode.com.bd)
 *  ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [হাতে কলমে মেশিন লার্নিং ১](https://raqueeb.gitbooks.io/mlbook-titanic/content/)
 *  ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) [হাতে কলমে - মেশিন লার্নিং](https://www.youtube.com/watch?v=5yCp1ylDVW0&list=PL1pf33qWCkmj5JTxldEFCxT4ed7lm4EoX)
 *  ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [মেশিন লার্নিং: টাইটানিক প্রজেক্ট ওয়ার্কবুক ২](https://raqueeb.gitbooks.io/mlbook-titanic-py/content/)
-*  ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Planeter Machine Learning Course - [1](https://www.youtube.com/watch?v=WTQ1jgEo3kM&list=PLA-CsqNypl-QKVha9EiPa3SNEfpuR_nBA), [2](https://www.youtube.com/watch?v=WSdZ-HqQn6w&list=PLA-CsqNypl-SqtkfwXAK7trT_M2g5yAGe), [3](https://www.youtube.com/watch?v=d71LyEM2NCA&list=PLA-CsqNypl-RjG3KzPbf1kSWePZzzflZ9), [4](https://www.youtube.com/watch?v=h99yt5Y2r4M&list=PLA-CsqNypl-RtrpjMeWHDyIDKm1TAQf4t), [5](https://www.youtube.com/watch?v=y0JWbSMCpNQ&list=PLA-CsqNypl-RCf-q6lxU3p6kBxuUFQlqF)
+*  ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Planeter Machine Learning Course - [0](https://www.youtube.com/watch?v=HOhIuZYYvYs&list=PLA-CsqNypl-T3r8x5qV0QckK7kRq4r7vi), [1](https://www.youtube.com/watch?v=WTQ1jgEo3kM&list=PLA-CsqNypl-QKVha9EiPa3SNEfpuR_nBA), [2](https://www.youtube.com/watch?v=WSdZ-HqQn6w&list=PLA-CsqNypl-SqtkfwXAK7trT_M2g5yAGe), [3](https://www.youtube.com/watch?v=d71LyEM2NCA&list=PLA-CsqNypl-RjG3KzPbf1kSWePZzzflZ9), [4](https://www.youtube.com/watch?v=h99yt5Y2r4M&list=PLA-CsqNypl-RtrpjMeWHDyIDKm1TAQf4t), [5](https://www.youtube.com/watch?v=y0JWbSMCpNQ&list=PLA-CsqNypl-RCf-q6lxU3p6kBxuUFQlqF), [6](https://www.youtube.com/watch?v=Vfv1X7LenLo&list=PLA-CsqNypl-T2xUGOQHQQLmeaBbyfNu8x)
 * [সহজ ভাষায় Naive Bayes এলগরিদম](https://medium.com/@halimaakhtermitu/সহজ-ভাষায়-naive-bayes-এলগরিদম-9d7bbb2d55a5)
 * [আর্টিফিশিয়াল ইন্টেলিজেন্স এর আদ্যপান্ত — কি , কেন, কিভাবে, কোথায়?!!](https://medium.com/@reyadrahman/আর্টিফিশিয়াল-ইন্টেলিজেন্স-এর-আদ্যপান্ত-কি-কেন-কিভাবে-কোথায়-ea3ff2a8cb7a)
 * [‘আ’ তে আর্টিফিশিয়াল ইন্টেলিজেন্স!](https://medium.com/@reyadrahman/আ-তে-আর্টিফিশিয়াল-ইন্টেলিজেন্স-1d6c092da1c6)
@@ -33,6 +39,7 @@
 * [সম্ভাবনাময় মেশিন লার্নিং শুরুর কিছু পথ-নির্দেশিকা](https://medium.com/@harunshimanto/সম্ভাবনাময়-মেশিন-লার্নিং-শুরুর-কিছু-পথ-নির্দেশিকা-1532f57cee49)
 * [আর্টিফিশিয়াল ইন্টেলিজেন্স নিয়ে কথপোকথন](https://medium.com/@harunshimanto/আর্টিফিশিয়াল-ইন্টেলিজেন্স-নিয়ে-কথপোকথন-57f83840abff)
 * [ডিসিশন ট্রি [DECISION TREE, MACHINE LEARNING ALGORITHM]](https://kandarisite.wordpress.com/2018/09/09/decision-tree-machine-learning-algorithm/)
+* [সখী Confusion Matrix কারে কয়, সে কি কেবলই যাতনাময় !!!!](http://sudiptakar.info/সখী-confusion-matrix-কারে-কয়-সে-কি-কেবলই/?i=1)
 
 ## ডিপ লার্নিং
 *  ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [ডিপ লার্নিং](https://dl.howtocode.com.bd)
@@ -70,3 +77,4 @@
 * বিগ ডাটা - [১](https://raqueeb.wordpress.com/2013/05/23/বিগ-ডাটা-এক/), [২](https://raqueeb.wordpress.com/2013/05/29/বিগ-ডাটা-দুই/), [৩](https://raqueeb.wordpress.com/2013/06/12/বিগ-ডাটা-তিন/), [৪](https://raqueeb.wordpress.com/2013/07/05/বিগডাটাচার/), [৫](https://raqueeb.wordpress.com/2013/07/07/বিগ-ডাটা-পাঁচ/), [৬](https://raqueeb.wordpress.com/2013/07/12/বিগ-ডাটা-ছয়/), [৭](https://raqueeb.wordpress.com/2013/07/26/বিগ-ডাটা-সাত/), [৮](https://raqueeb.wordpress.com/2013/07/27/বিগ-ডাটা-আট/), [৯](https://raqueeb.wordpress.com/2013/08/05/বিগ-ডাটা/), [১০](https://raqueeb.wordpress.com/2013/08/06/বিগ-ডাটা-দশ/), [১১](https://raqueeb.wordpress.com/2017/03/19/big_data11/), [১২](https://raqueeb.wordpress.com/2017/03/25/bigdata12/), [১৩](https://raqueeb.wordpress.com/2017/03/26/bigdata13/), [১৪](https://raqueeb.wordpress.com/2017/03/26/bigdata14/)
 * তৈরি তো? আর্টিফিসিয়াল ইন্টেলিজেন্স - [১](https://raqueeb.wordpress.com/2016/12/01/artificial_intelligence1/), [২](https://raqueeb.wordpress.com/2017/01/06/artificial_intelligence2/), [৩](https://raqueeb.wordpress.com/2017/04/02/artificial-intelligence-3/), [৪](https://raqueeb.wordpress.com/2017/04/05/artificial-intelligence4/), [৫](https://raqueeb.wordpress.com/2017/04/07/artificial-intelligence5/)
 * [কৃত্রিম বুদ্ধিমত্তার পাঠ্যক্রম](https://roar.media/bangla/main/science/study-curriculum-of-artificial-intelligence/)
+* [Fast Fourier Transform](https://rezwanarefin01.github.io/posts/fast-fourier-transform/)

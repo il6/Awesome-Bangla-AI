@@ -24,6 +24,7 @@
 * বিগ ডাটা' - নুতন সম্ভাবনার দুয়ার - [১](https://www.priyo.com/articles/বিগ-ডাটা-নুতন-সম্ভাবনার-দুয়ার-১), [২](https://www.priyo.com/articles/বিগ-ডাটা-নুতন-সম্ভাবনার-দুয়ার-২), [৩](https://www.priyo.com/articles/বিগ-ডাটা-নুতন-সম্ভাবনার-দুয়ার-৩)
 * পরিসংখ্যান ও সম্ভাব্যতা - [১](https://medium.com/প্রোগ্রামিং-পাতা/পরিসংখ্যান-ও-সম্ভাব্যতা-পর্ব-১-ca96d0b6ed10), [২](https://medium.com/প্রোগ্রামিং-পাতা/পরিসংখ্যান-ও-সম্ভাব্যতা-পর্ব-২-6c0287b06514), [৩](https://medium.com/প্রোগ্রামিং-পাতা/পরিসংখ্যান-ও-সম্ভাব্যতা-পর্ব-৩-cd3efc3ebbf1), [৪](https://medium.com/প্রোগ্রামিং-পাতা/পরিসংখ্যান-ও-সম্ভাব্যতা-পর্ব-৪-4bdcffac6097)
 * [জাম্প (পরিসংখ্যানের সফটওয়্যার)](https://bn.wikipedia.org/wiki/জাম্প_(পরিসংখ্যানের_সফটওয়্যার))
+*  ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) [বিস্তার ও পরিমাপ [উচ্চমাধ্যবিক সিলেবাস]](https://www.youtube.com/watch?v=L6ZmbdpEjic&list=PLxSt9YDBipm6UxKzXpeyzSsED94ukGEBJ)
 
 ## মেশিন লার্নিং
 *  ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [মেশিন লার্নিং](https://ml.howtocode.com.bd)

@@ -84,3 +84,10 @@
 * তৈরি তো? আর্টিফিসিয়াল ইন্টেলিজেন্স - [১](https://raqueeb.wordpress.com/2016/12/01/artificial_intelligence1/), [২](https://raqueeb.wordpress.com/2017/01/06/artificial_intelligence2/), [৩](https://raqueeb.wordpress.com/2017/04/02/artificial-intelligence-3/), [৪](https://raqueeb.wordpress.com/2017/04/05/artificial-intelligence4/), [৫](https://raqueeb.wordpress.com/2017/04/07/artificial-intelligence5/)
 * [কৃত্রিম বুদ্ধিমত্তার পাঠ্যক্রম](https://roar.media/bangla/main/science/study-curriculum-of-artificial-intelligence/)
 * [Fast Fourier Transform](https://rezwanarefin01.github.io/posts/fast-fourier-transform/)
+
+## কিছু বইয়ের তালিকা (হার্ডকপি)
+* [মেশিন লার্নিং অ্যালগরিদম](https://www.rokomari.com/book/173164/machine-learning-algorithm)
+* [হাতেকলমে মেশিন লার্নিং](https://www.rokomari.com/book/160337/hatekolome-machine-learning)
+* [কৃত্রিম বুদ্ধিমত্তা](https://www.rokomari.com/book/9631/krittim-buddimotta)
+* [ইমেজ প্রসেসিং এবং রোবটিক ভিশন](https://www.rokomari.com/book/112533/image-procesing)
+* [কৃত্রিম বুদ্ধিমত্তা: প্রযুক্তি বিজ্ঞানের নতুন দিগন্ত](https://www.rokomari.com/book/68554/kritim-buddimota--projukti-bigganer-notun-dhara)

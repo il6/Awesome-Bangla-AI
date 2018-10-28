@@ -91,3 +91,4 @@
 * [কৃত্রিম বুদ্ধিমত্তা](https://www.rokomari.com/book/9631/krittim-buddimotta)
 * [ইমেজ প্রসেসিং এবং রোবটিক ভিশন](https://www.rokomari.com/book/112533/image-procesing)
 * [কৃত্রিম বুদ্ধিমত্তা: প্রযুক্তি বিজ্ঞানের নতুন দিগন্ত](https://www.rokomari.com/book/68554/kritim-buddimota--projukti-bigganer-notun-dhara)
+* [কৃত্রিম বুদ্ধিমত্তা](http://books.com.bd/21596)

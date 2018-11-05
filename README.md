@@ -64,6 +64,18 @@
 * [টেনসরফ্লো/TensorFlow এর বেসিক কিছু ধারণা](https://inversemaha.wordpress.com/2017/06/04/tensorflow-এবং-মেশিন-লার্নিং/)
 * [নিউরাল নেটওয়ার্ক](https://bn.wikipedia.org/wiki/নিউরাল_নেটওয়ার্ক)
 
+## ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Bengali.Ai Live
+* [NLP: Efficient Estimation of Word Representations in Vector Space](https://www.facebook.com/bengaliAI/videos/925281777661106/)
+* [NLP: Generative Feature Language Models for Mining Implicit Features from Customer Reviews- S5](https://www.facebook.com/bengaliAI/videos/2234253770179951/)
+* [Fully Convolutional Networks for Semantic- S6](https://www.facebook.com/bengaliAI/videos/2275108782717310/)
+* [TweeTime: A Minimally Supervised Method for Recognizing and Normalizing Time Expressions in Twitter- S7](https://www.facebook.com/bengaliAI/videos/962580367259707/)
+* [You Only Look Once: Unified, Real-Time Object Detection- S8](https://www.facebook.com/bengaliAI/videos/273146039990630/)
+* [Recurrent Neural Networks for Multivariate Time Series- S9](https://www.facebook.com/bengaliAI/videos/339912783479172/)
+* [ Folksonomication: Predicting Tags for Movies from Plot Synopses Using Emotion Flow Encoded Neural Network- S10](https://www.facebook.com/bengaliAI/videos/744097205932766/)
+* [Kate: K-Competitive Autoencoder for Text- S11](https://www.facebook.com/bengaliAI/videos/1908250555936043/)
+
+
+
 ## কম্পিউটার ভিশন-
 *  ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [কম্পিউটার ভিশন পরিচিতি](http://shikkhok.com/কোর্স-তালিকা/computer-vision/)
 *  ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) পাইথন এবং ওপেনসিভি দিয়ে ইমেজ প্রসেসিং ও কম্পিউটার ভিশন শিখি পর্ব- [১](https://medium.com/kcbs-cv-and-ml/পাইথন-এবং-ওপেনসিভি-দিয়ে-ইমেজ-প্রসেসিং-ও-কম্পিউটার-ভিশন-শিখি-পর্ব-১-fa2786daee2d), [২](https://medium.com/kcbs-cv-and-ml/পাইথন-এবং-ওপেনসিভি-দিয়ে-ইমেজ-প্রসেসিং-ও-কম্পিউটার-ভিশন-শিখি-পর্ব-২-e68bb316809f), [৩](https://medium.com/kcbs-cv-and-ml/পাইথন-এবং-ওপেনসিভি-দিয়ে-ইমেজ-প্রসেসিং-ও-কম্পিউটার-ভিশন-শিখি-পর্ব-৩-455c80d9f0d7),[৪](https://medium.com/kcbs-cv-and-ml/পাইথন-এবং-ওপেনসিভি-দিয়ে-ইমেজ-প্রসেসিং-ও-কম্পিউটার-ভিশন-শিখি-পর্ব-৪-1abb64b563a5)
